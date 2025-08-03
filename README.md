@@ -30,8 +30,7 @@ A comprehensive Spring Boot REST API for managing workforce tasks with advanced 
 ### Installation & Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/workforcemgmt.git
-cd workforcemgmt
+git clone https://github.com/Yashwant7869/Railse-Workforce-Management.git
 
 # Build the project
 ./gradlew build
@@ -142,23 +141,3 @@ The project includes comprehensive unit tests. Run them with:
 ```bash
 ./gradlew test
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Author
-
-Created by a MERN developer exploring Java Spring Boot ecosystem.
-
----
-
-⭐ **Star this repository if you found it helpful!**
